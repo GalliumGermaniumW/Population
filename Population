@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>种群桌游版</title>
+    <style type="test.css">
+        body{
+            background-image: und("217.jpg");
+        }
+    </style>
+    <script>
+        let number=prompt("当前数量=")
+        let increase=11/10;
+        number=number*increase;
+        alert("繁殖后数量="+number);
+    </script>
+</head>
+<body>
+<h1>种群：新生代</h1>
+<p>一个简单的网页。</p>
+<img src="大吉岭.jpg"/>
+</body>
+</html>
